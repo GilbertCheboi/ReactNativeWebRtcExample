@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370237933011",
+    "project_id": "gilly-kim",
+    "storage_bucket": "gilly-kim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370237933011:android:a9b82f63a300f13c941b26",
+        "android_client_info": {
+          "package_name": "com.reactnativewebrtcexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370237933011-va2coq8spq2d6t8et20kjqh853f7c4b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zdPOiNx6_exjw6vzfA2vadkJfGjw12I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370237933011-va2coq8spq2d6t8et20kjqh853f7c4b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
